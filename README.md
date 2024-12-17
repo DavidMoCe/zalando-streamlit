@@ -76,10 +76,6 @@ pip install -r requirements.txt
 4. **Prediction:** The processed image is passed to the model, which predicts the clothing category.
 5. **Result:** The predicted category is displayed along with the preprocessed image.
 
-## Contributions 🤝
-
-Contributions are welcome! If you have suggestions, corrections, or improvements, please open an issue or a pull request.
-
 ## License 📄
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
