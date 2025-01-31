@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ## License 📄
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [`LICENSE`](https://github.com/DavidMoCe/zalando-streamlit/blob/main/LICENSE.txt) file for details.
 
 ---
 
@@ -154,4 +154,4 @@ pip install -r requirements.txt
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [`LICENSE`](https://github.com/DavidMoCe/zalando-streamlit/blob/main/LICENSE.txt) para más detalles.
